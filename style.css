@@ -1,1 +1,33 @@
-
+header {
+    background-color: blue;
+}
+title {
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    
+}
+@font-face {
+    font-family: 'Droid_Sans_Bold';
+    src: url('Fonts/Droid_Sans_Bold');
+}
+h1 {
+    font-size: 50px;
+    text-align:center;
+     font-family: 'Oswald', sans-serif;
+    color: yellow;
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.column_1 {
+background-color: blue;
+}

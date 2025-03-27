@@ -4,5 +4,7 @@ This was a project to create a boat from the scratch where i was responsible of 
 
 https://github.com/user-attachments/assets/a7722fc7-3751-4016-af86-457941cb68d5
 
-https://github.com/user-attachments/assets/b8e14f26-20f6-4e49-b993-ba787e9d541a  ![image](https://github.com/user-attachments/assets/15f011c9-fb32-47ee-a6c0-478d92ba085e)
+https://github.com/user-attachments/assets/b8e14f26-20f6-4e49-b993-ba787e9d541a
+
+![image](https://github.com/user-attachments/assets/15f011c9-fb32-47ee-a6c0-478d92ba085e)
 
